@@ -1,8 +1,3 @@
 Naci en Oaxaca y eso es todo
 
-<<<<<<< HEAD
-Cambio en el archivo 
-=======
-este es un cambio que solo se ve en la rama
-
->>>>>>> nuevoarchivo
+estoy haciendo un cambio en la rama master
