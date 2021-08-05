@@ -1,2 +1,3 @@
 hola 
 este cambio lo hice desde windows 10 en una chuwibook corebook x
+este cambio lo hice desde una raspberry 4 de manera remota
